@@ -1,3 +1,7 @@
+<?php
+require_once "assets/db.php";
+
+?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
