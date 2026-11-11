@@ -36,7 +36,7 @@ $restaurants = [
 
     <title>Restaurant Booking | Boka ditt bord</title>
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/css%20style.css">
 </head>
 
 <body>
